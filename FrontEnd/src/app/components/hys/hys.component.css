@@ -1,0 +1,15 @@
+.row{
+    background-color: rgb(168, 168, 196);
+    padding: 20px;
+    align-content: center;
+    
+}
+
+img{
+    padding-top: 40px;
+}
+
+h4{
+    color: darkslategrey;
+    font-weight: bold;
+}
